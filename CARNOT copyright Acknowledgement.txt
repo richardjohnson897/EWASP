@@ -1,1 +1,0 @@
-The EWASP model uses elements of the CARNOT blockset, copyright for which is held by Solar-Institut Juelich.
